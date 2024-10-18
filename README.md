@@ -1,4 +1,4 @@
-# E-commerce_Store_Analysis
+# Excel_Store_Sales_Dashboard
 
-This is an dashboard created on Excel to highlight the key insights of an E-Commerce Store
-Concepts Covered: Excel Charts, Pivot Tables, VLookups, Slicers and etc.
+This is a dashboard created in Excel to highlight the key insights of an E-Commerce Store
+Concepts covered: Excel Charts, Pivot Tables, VLookups, Slicers, etc.
